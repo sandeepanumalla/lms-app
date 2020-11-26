@@ -1,0 +1,25 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 1px;
+}
+
+.eachcourse:hover {
+  opacity: 0.9;
+  transition: all 0.3s ease;
+  position: relative;
+  background: #fff;
+  -webkit-box-sizing: 1px 1px 1px 1px rgba(34,36,38,.15);
+
+  margin: 1rem 1rem 1rem 1rem ;
+ 
+  
+}
+.float{
+  
+}
+
+
+body {
+  background: #343a40;
+}
